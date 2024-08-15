@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning html 5 and javascript
 - 💞️ I’m looking to collaborate on online security sistems
 
-- ![RenanVKoashi's Stats](https://github-readme-stats.vercel.app/api?username=RenanVKoashi&theme=merko&show_icons=true&hide_border=true&count_private=true)
-- ![RenanVKoashi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RenanVKoashi&theme=merko&hide_border=true)
-- ![RenanVKoashi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanVKoashi&theme=merko&show_icons=true&hide_border=true&layout=compact)
+- ![RenanVKoashi's Stats](https://github-readme-stats.vercel.app/api?username=RenanVKoashi&theme=merko&show_icons=true&hide_border=true&count_private=true) ![RenanVKoashi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanVKoashi&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
 <!---
